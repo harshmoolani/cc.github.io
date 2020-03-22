@@ -94,7 +94,7 @@ h6 a,
 }
 
 h1, .h1 {
-  font-size: 3em;
+  font-size: 1em;
   line-height: 1.213483146em;
   font-weight: bold;
 }
@@ -2774,7 +2774,7 @@ a,
     margin: 0;
   }
   .section-header .content h1 {
-    font-size: 4.5em;
+    font-size: 3em;
     letter-spacing: 0.07em;
     line-height: 1.7;
   }

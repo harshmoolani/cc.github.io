@@ -17,6 +17,16 @@ html {
   font-size: 14px;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
+  scroll-behavior: smooth;
+ }
+ 
+ a {
+  text-decoration: none;
+  color: black;
+ } 
+ 
+ #down {
+ } 
 }
 
 body {
@@ -3741,3 +3751,4 @@ body {
     padding: 0;
   }
 }
+

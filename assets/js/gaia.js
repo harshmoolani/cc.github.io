@@ -1,16 +1,19 @@
-// =========================================================
-// * Gaia Bootstrap Template - v1.0.1
-// =========================================================
-//
-// * Product Page: https://www.creative-tim.com/product/gaia-bootstrap-template
-// * Licensed under MIT (https://github.com/creativetimofficial/gaia-bootstrap-template/blob/master/LICENSE.md)
-// * Copyright 2019 Creative Tim (http://www.creative-tim.com)
-//
-// * Coded by Creative Tim
-//
-// =========================================================
-//
-// * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+/*!
+
+ =========================================================
+ * Gaia Bootstrap Template PRO - v1.0.1
+ =========================================================
+
+ * Product Page: https://www.creative-tim.com/product/gaia-bootstrap-template-pro
+ * Copyright 2019 Creative Tim (https://www.creative-tim.com)
+
+ * Coded by Creative Tim
+
+ =========================================================
+
+ * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+ */
 
 var transparent = true;
 
